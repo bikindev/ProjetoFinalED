@@ -5,6 +5,7 @@
 
     Desenvolvido por: Grupo 26
     Patrícia Souza Couto
+    Vitor Moreira dos Santos
     Vitor Pereira Resende
 */
 
